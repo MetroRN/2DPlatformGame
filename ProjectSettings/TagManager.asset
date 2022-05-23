@@ -39,11 +39,20 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background 1
-    uniqueID: 1547746519
+  - name: Background 3
+    uniqueID: 3736012469
     locked: 0
   - name: Background 2
     uniqueID: 3023004961
+    locked: 0
+  - name: Background 1
+    uniqueID: 1547746519
+    locked: 0
+  - name: Walls
+    uniqueID: 2159010617
+    locked: 0
+  - name: WindowsDecor
+    uniqueID: 1440593591
     locked: 0
   - name: Default
     uniqueID: 0
